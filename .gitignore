@@ -1,6 +1,5 @@
 node_modules
 scss
-vendor
 gulpfile.js
 LICENSE
 package-lock.json
